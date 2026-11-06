@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Profile views](https://komarev.com/ghpvc/?username=Chichat1&color=blue)
 Bachelor of Veterinary Medicine, specializing in Anesthesiology
 <!--
 **Chichat1/Chichat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
